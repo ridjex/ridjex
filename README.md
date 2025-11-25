@@ -1,6 +1,6 @@
-![Profile Views](https://komarev.com/ghpvc/?username=kochuraa&color=green&abbreviated=true)
-![Followers](https://img.shields.io/github/followers/kochuraa)
-![Stars](https://img.shields.io/github/stars/kochuraa)
+![Profile Views](https://komarev.com/ghpvc/?username=ridjex&color=green&abbreviated=true)
+![Followers](https://img.shields.io/github/followers/ridjex)
+![Stars](https://img.shields.io/github/stars/ridjex)
 
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">Independent CTO & Cloud Architect | DevOps & Engineering Lead</h3>
@@ -17,8 +17,8 @@
     <a href="https://stackoverflow.com/users/3272539" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3272539" height="30" width="40" /></a>
     <a href="https://fb.com/andrew.kochura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrew.kochura" height="30" width="40" /></a>
     <a href="https://instagram.com/klark0327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="klark0327" height="30" width="40" /></a>
-    <a href="https://medium.com/@kochuraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kochuraa" height="30" width="40" /></a>
-    <a href="https://kochuraa.medium.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://kochuraa.medium.com/feed" height="30" width="40" /></a>
+    <a href="https://medium.com/@ridjex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ridjex" height="30" width="40" /></a>
+    <a href="https://ridjex.medium.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ridjex.medium.com/feed" height="30" width="40" /></a>
   </p>
 
 ### 📕 Latest Blog Posts
@@ -273,9 +273,9 @@
 </p>
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats-realad.vercel.app/api?username=kochuraa&theme=light&count_private=true&include_all_commits=false&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![](https://github-readme-stats-realad.vercel.app/api/top-langs/?username=kochuraa&theme=light&hide_border=false&include_all_commits=true&count_private=true&size_weight=0.5&count_weight=0.5&layout=compact)
+![](https://github-readme-stats-realad.vercel.app/api?username=ridjex&theme=light&count_private=true&include_all_commits=false&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![](https://github-readme-stats-realad.vercel.app/api/top-langs/?username=ridjex&theme=light&hide_border=false&include_all_commits=true&count_private=true&size_weight=0.5&count_weight=0.5&layout=compact)
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kochuraa)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ridjex)](https://github.com/ryo-ma/github-profile-trophy)
