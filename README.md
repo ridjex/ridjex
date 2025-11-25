@@ -3,7 +3,7 @@
 ![Stars](https://img.shields.io/github/stars/ridjex)
 
 <h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">Independent CTO & Cloud Architect | DevOps & Engineering Lead</h3>
+<h3 align="center">CTO & Architect | DevOps & Engineering Lead</h3>
 
 ### 🚀 About Me
 
