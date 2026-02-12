@@ -12,8 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Render posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://kochuraa.medium.com/feed"
+          feed_list: "https://ridjex.medium.com/feed"
