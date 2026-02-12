@@ -277,5 +277,4 @@
 ![](https://github-readme-stats-realad.vercel.app/api/top-langs/?username=ridjex&theme=light&hide_border=false&include_all_commits=true&count_private=true&size_weight=0.5&count_weight=0.5&layout=compact)
 
 ### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ridjex)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=ridjex)](https://github.com/ridjex/ridjex)
