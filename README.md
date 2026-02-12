@@ -10,7 +10,7 @@
 - 🔭 Currently working on **Worldwide Social and Environment Projects**
 - 🌱 I’m passionate about **Cloud-native Solutions, AI & ML Integrations, and High-load Architectures**
 - 💬 Ask me about **AWS Services, DevOps Practices, Microservice Architecture, Frontend & Backend Development, Compliance (USA & EU frameworks)**
-- 📫 How to reach me: **a.kochura@realad.io**
+- 📫 How to reach me:
   <p align="left">
     <a href="https://twitter.com/@klark0327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@klark0327" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/andrewkochura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrewkochura" height="30" width="40" /></a>
